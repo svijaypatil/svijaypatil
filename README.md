@@ -7,10 +7,12 @@
 MSc Software Engineering with Cloud Computing at City St George's, University of London  
 London, United Kingdom
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-vijayspatil.dev-2F81F7?style=flat-square&logo=google-chrome&logoColor=white)](https://vijayspatil.dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-svijaypatil-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/svijaypatil)
-[![GitHub](https://img.shields.io/badge/GitHub-svijaypatil-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/svijaypatil)
-[![Email](https://img.shields.io/badge/Email-vijayspatil.work%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:vijayspatil.work@gmail.com)
+<p align="center">
+  <a href="https://vijayspatil.dev/"><strong>vijayspatil.dev</strong></a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/svijaypatil"><strong>LinkedIn</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/svijaypatil"><strong>GitHub</strong></a> &nbsp;·&nbsp;
+  <a href="mailto:vijayspatil.work@gmail.com"><strong>vijayspatil.work@gmail.com</strong></a>
+</p>
 
 </div>
 
