@@ -67,6 +67,7 @@ Right now, I'm pursuing my **MSc in Software Engineering with Cloud Computing** 
 ### GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=svijaypatil&show_icons=true&theme=transparent&hide_border=true&title_color=2F81F7&icon_color=2F81F7&text_color=8B949E" alt="Vijay's GitHub Stats" height="165" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=svijaypatil&layout=compact&theme=transparent&hide_border=true&title_color=2F81F7&text_color=8B949E" alt="Top Languages" height="165" />
+  <img src="./profile-summary-card-output/transparent/0-profile-details.svg" alt="Profile Details" />
+  <img src="./profile-summary-card-output/transparent/1-repos-per-language.svg" alt="Top Languages" height="175" />
+  <img src="./profile-summary-card-output/transparent/3-stats.svg" alt="Stats" height="175" />
 </div>
